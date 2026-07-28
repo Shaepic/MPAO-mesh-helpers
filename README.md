@@ -1,4 +1,4 @@
-Usage-
+Usage:
 Simply import these meshes into your 3D scene.
 Position them in areas where natural occlusive shadowing is to be expected, adjusting extents, angles, intensity and color to suit.
 
